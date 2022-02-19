@@ -133,3 +133,4 @@ data/
 graph/
 checkpoints/
 summaries/
+output/
